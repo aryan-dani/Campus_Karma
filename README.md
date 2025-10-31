@@ -2,8 +2,6 @@
 
 **CampusKarma** is a no-code automation system built for the 48-Hour Unstop No-Code Hackathon. It acts as a central nervous system for campus communications, intelligently routing, logging, and announcing submissions from students and faculty without writing a single line of code.
 
-![CampusKarma Flow](https://i.imgur.com/gA1bS2U.png) 
-*(This is a generic flow diagram—you can replace it later with a screenshot of your WorqHat workflow)*
 
 ---
 
